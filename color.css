@@ -1,0 +1,13 @@
+/* body{
+  background-image: url(https://cdn.glitch.com/2461d953-1d28-4c71-aa1a-3c18d6a2b7f2%2Fapple.png?v=1610562126537);
+  background-repeat: no-repeat;
+  background-attatchment-fixed;
+  background-size:100% 100%;
+} */
+
+#intro{
+  border: solid;
+  margin:40px;
+  padding:30px;
+  width: 30%;
+}

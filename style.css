@@ -1,0 +1,33 @@
+/* CSS files add styling rules to your content */
+
+/* 
+body {
+  
+  background-color: #DDE7C7;
+  
+}
+
+
+/* ol{
+  border: solid;
+}
+ */
+
+#jack{
+  font-size: 15px;
+  border:solid;
+  padding: 20px;
+  margin:  40px;
+}
+
+
+
+li{
+  border: solid;
+}
+ 
+.bob{
+  color:red;
+  border:solid;
+}
+
